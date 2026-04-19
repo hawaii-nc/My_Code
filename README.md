@@ -12,5 +12,5 @@ Examples demonstrating Python fundamentals and common patterns.
 
 | File | Description |
 |------|-------------|
-| [groundWireGenerator](python/hello_world.py) | Creates ground wire that adapts to the ground|
+| [groundWireGenerator](python/hello_world.cs) | Creates ground wire that adapts to the ground|
 
