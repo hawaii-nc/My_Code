@@ -6,7 +6,7 @@ A collection of code examples and snippets I've created across various topics an
 
 - [C#](#C#)
 
-## Python
+## C#
 
 Examples demonstrating Python fundamentals and common patterns.
 
