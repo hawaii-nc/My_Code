@@ -4,7 +4,7 @@ A collection of code examples and snippets I've created across various topics an
 
 ## Table of Contents
 
-- [Python](#python)
+- [C#](#C#)
 
 ## Python
 
