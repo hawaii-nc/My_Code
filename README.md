@@ -13,5 +13,4 @@ Examples demonstrating Python fundamentals and common patterns.
 | File | Description |
 |------|-------------|
 | [groundWireGenerator](python/hello_world.cs) | Creates ground wire that adapts to the ground|
-
 | [ArduinoRoboClaw](Python/ArduinoRoboClaw.cs) | Test code to test connection between roboclaw and arduino|
